@@ -5,7 +5,7 @@
 // Don't forget to connect the other side of the speaker to ground!
 
 /*
-I've modified and verified the whole code into another level using chibiOS, one of the
+I've modified and verified the whole codes into another level using chibiOS, one of the
 smallest and efficient RTOS for Arduino. ChibiOS is under license of GPL3. You could find more
 about chibiOS at http://www.chibios.org/dokuwiki/doku.php . You could easily add the chibiOS
 library to any Arduino 1.0.1 .ino projects. It is almost neutral to any version control issues.
